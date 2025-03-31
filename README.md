@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Charlie Maxwell!
+- 👋 Hi, I’m Charlie The Gaming God!
 - 👀 I’m interested in developing games, making Minecraft mods and creating websites.
 - 🌱 I am currently learning Java, C#, PHP and SQL.
 
