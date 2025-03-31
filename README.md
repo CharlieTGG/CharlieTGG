@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Charlie Maxwell!
-- 👀 I’m interested in developing games and websites.
-- 🌱 I’m currently learning to code with the Mimo app.
+- 👀 I’m interested in developing games, making Minecraft mods and creating websites.
+- 🌱 I am currently learning Java, C#, PHP and SQL.
 
 <!---
 CharlieTGG/CharlieTGG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
